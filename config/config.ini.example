@@ -1,0 +1,9 @@
+[rabbit]
+    host: host_ip
+    port: host_port
+    exchange: exchange_name
+    queue: queue_name
+    rKey: routing_key
+    vHost: virtual_host
+    login: rabbit_login
+    password: rabbit_password
